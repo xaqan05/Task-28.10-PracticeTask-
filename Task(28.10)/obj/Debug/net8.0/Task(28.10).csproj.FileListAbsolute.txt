@@ -16,3 +16,4 @@ C:\Users\ll Novbe\Desktop\Task\Task(28.10)\Task(28.10)\bin\Debug\net8.0\Core.dll
 C:\Users\ll Novbe\Desktop\Task\Task(28.10)\Task(28.10)\bin\Debug\net8.0\Core.pdb
 C:\Users\ll Novbe\Desktop\Task\Task(28.10)\Task(28.10)\obj\Debug\net8.0\Task(28.10).csproj.AssemblyReference.cache
 C:\Users\ll Novbe\Desktop\Task\Task(28.10)\Task(28.10)\obj\Debug\net8.0\Task(28.10).csproj.CopyComplete
+C:\Users\ll Novbe\Desktop\Task\Task(28.10)\Task(28.10)\obj\Debug\net8.0\Task(28.10).sourcelink.json
